@@ -1,0 +1,6 @@
+---
+title: "Primera Actividad Análisis Estadístico"
+---
+
+En está página, están publicados los desafíos de la primera actividad de
+Análisis Estadístico.

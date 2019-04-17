@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Primera Actividad (RV)"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Desafío 1"
+      href: desafio1.html
+    - text: "Desafío 2"
+      href: desafio2.html
+    - text: "Desafío 3"
+      href: desafio3.html
